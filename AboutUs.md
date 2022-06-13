@@ -11,11 +11,9 @@ Table of Contents
 
 
 <a name="Introduction"/>
-**
 
 # Introduction
 
-**
 
 YGO Viet Nam (https://ygovietnam.com) is a platform for the YGO Vietnamese comunity. 
 
@@ -30,11 +28,9 @@ sdadassada
 
 <a name="Goal"/>
 Goal
-**
 
 # Goal
 
-**
 
 
 sdadassada
@@ -42,11 +38,9 @@ sdadassada
 
 <a name="CoreMember"/>
 CoreMember
-**
 
 # Core Member
 
-**
 
 
 sdadassada
@@ -54,11 +48,9 @@ sdadassada
 
 <a name="StrategicPartnership"/>
 StrategicPartnership
-**
 
 # Strategic Partnership
 
-**
 
 
 sdadassada
@@ -67,11 +59,9 @@ sdadassada
 
 <a name="Conclusion"/>
 Conclusion
-**
 
 # Conclusion
 
-**
 
 
 sdadassada
