@@ -34,7 +34,6 @@ sdadassada
 
 
 <a name="CoreMember"/>
-CoreMember
 
 # Core Member
 
@@ -44,7 +43,6 @@ sdadassada
 
 
 <a name="StrategicPartnership"/>
-StrategicPartnership
 
 # Strategic Partnership
 
@@ -55,7 +53,6 @@ sdadassada
 
 
 <a name="Conclusion"/>
-Conclusion
 
 # Conclusion
 
