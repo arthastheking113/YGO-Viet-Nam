@@ -6,3 +6,5 @@ YGO Viet Nam (https://ygovietnam.com) is a platform for the YGO Vietnamese comun
 ![ygovietnam home page](https://ygovietnam.blob.core.windows.net/storage/about%20home%202.PNG)
 
 Even though this is not a real repo of ygovietnam. You can still have an overview and making request to ygovietnam website.
+
+Note: currently, we only support Duel Links and Master Duel. But we plan to support all YGO platforms in the future.
