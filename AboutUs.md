@@ -1,11 +1,17 @@
 # YGO Viet Nam (Yugi-Oh Viet Nam)
 This is a public Repo for https://ygovietnam.com 
 
-[[_TOC_]]
+Table of Contents
+=================
+ * [Introduction](#Introduction)
+ * [Our goal](#Goal)
+ * [Core Member](#CoreMember)
+ * [Strategic Partnership](#StrategicPartnership)
+ * [Conclusion](#Conclusion)
 
-------------------------------
 
-#Introduction
+<a name="Introduction"/>
+Introduction
 
 YGO Viet Nam (https://ygovietnam.com) is a platform for the YGO Vietnamese comunity. 
 
@@ -15,16 +21,34 @@ Even though this is not a real repo of ygovietnam. You can still have an overvie
 
 Note: currently, we only support Duel Links and Master Duel. But we plan to support all YGO platforms in the future.
 
-#Our goal
+
+sdadassada
+
+<a name="Goal"/>
+Goal
 
 
-#Guides/Stratergies
+sdadassada
 
 
-#Core Member
+<a name="CoreMember"/>
+CoreMember
 
 
-#Strategic partnership
+sdadassada
 
 
-#Conclusion
+<a name="StrategicPartnership"/>
+StrategicPartnership
+
+
+sdadassada
+
+
+
+<a name="Conclusion"/>
+Conclusion
+
+
+sdadassada
+
