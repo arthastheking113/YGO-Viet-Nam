@@ -24,10 +24,7 @@ Even though this is not a real repo of ygovietnam. You can still have an overvie
 Note: currently, we only support Duel Links and Master Duel. But we plan to support all YGO platforms in the future.
 
 
-sdadassada
-
 <a name="Goal"/>
-Goal
 
 # Goal
 
